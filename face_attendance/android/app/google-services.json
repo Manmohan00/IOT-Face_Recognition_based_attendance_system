@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "854591258590",
+    "firebase_url": "https://face-attendance-a2b16-default-rtdb.firebaseio.com",
+    "project_id": "face-attendance-a2b16",
+    "storage_bucket": "face-attendance-a2b16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854591258590:android:4c50de93a34962e982674f",
+        "android_client_info": {
+          //"package_name": "com.itprojects_exe.face_attendance"
+          "package_name": "com.Itprojects_exeinstagram.face_attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854591258590-i0drdeov56jrg5fjonfvrj3a84mv8l8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqYejJHOdgD8gv68GtDV5dpgIyFIYx4AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854591258590-i0drdeov56jrg5fjonfvrj3a84mv8l8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
